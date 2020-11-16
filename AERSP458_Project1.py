@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun 23 16:50:47 2020
-
 @author: Jacob
 """
 import math
